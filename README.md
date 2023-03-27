@@ -1,6 +1,6 @@
 <h1>Projeto Spring Data JPA</h1>
 <h2>Objetivo</h2>
-<p>Oe projeto irá apresentar os principais conceitos de mapeamento objeto relacional (ORM) usando o Spring Data JPA, para isso, uma API RESTful será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
+<p>O projeto irá apresentar os principais conceitos de mapeamento objeto relacional (ORM) usando o Spring Data JPA, para isso, uma API RESTful será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
 
 <h2>Tecnologias Utilizadas</h2>
 
